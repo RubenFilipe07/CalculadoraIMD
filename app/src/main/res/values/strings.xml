@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculadora IMD</string>
+    <string name="btn_calc">Calculadora</string>
+    <string name="btn_notas">Notas</string>
+    <string name="dev_sign">Desenvolvido por: Rúben Filipe</string>
+
+    <string name="notas_title">Calcule sua média:</string>
+    <string name="input_notas1">Insira sua nota 01</string>
+    <string name="input_notas2">Insira sua nota 02</string>
+    <string name="input_notas3">Insira sua nota 03</string>
+    <string name="notas_subtitle">Situação:</string>
+
+    <string name="calc_title">"Resultado: "</string>
+    <string name="btn_calc_1">1</string>
+    <string name="btn_calc_2">2</string>
+    <string name="btn_calc_3">3</string>
+    <string name="btn_calc_4">4</string>
+    <string name="btn_calc_5">5</string>
+    <string name="btn_calc_6">6</string>
+    <string name="btn_calc_7">7</string>
+    <string name="btn_calc_8">8</string>
+    <string name="btn_calc_9">9</string>
+    <string name="btn_calc_0">0</string>
+    <string name="btn_calc_soma">+</string>
+    <string name="btn_calc_sub">-</string>
+    <string name="btn_calc_mult">X</string>
+    <string name="btn_calc_div">/</string>
+    <string name="btn_calc_del">DEL</string>
+    <string name="btn_calc_igual">=</string>
+    <string name="blank"></string>
+
+    <string name="btn_calcular">Calcular</string>
+
+</resources>
